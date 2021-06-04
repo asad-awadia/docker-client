@@ -91,7 +91,7 @@ dependencies {
 
   testImplementation("de.gesellix:testutil:[2020-10-03T10-08-28,)")
 
-  testImplementation("org.spockframework:spock-core:2.0-groovy-2.5")
+  testImplementation("org.spockframework:spock-core:2.0-groovy-3.0")
   testRuntimeOnly("cglib:cglib-nodep:3.3.0")
 
   testImplementation("org.apache.commons:commons-lang3:3.12.0")
